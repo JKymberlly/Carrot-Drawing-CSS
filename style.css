@@ -21,7 +21,7 @@ body{
 }
 .folha-1{
     transform: scale(1.2) rotate(55deg) translate(270%, -240%);
-    box-shadow: 10px 10px 5px lightblue;
+    box-shadow: 10px 10px 5px rgb(0, 54, 0);
 }
 .folha-2{
     transform: scale(1.2) translate(340%, -60%);
@@ -35,7 +35,7 @@ body{
     width: 40px;
     transform: translate(90%, 0%) perspective(30px) rotate(45deg) rotateX(-20deg);
     border-radius: 30rem 30rem 50rem 50rem;
-    box-shadow: 10px 10px 5px lightblue;
+    box-shadow: 10px 10px 5px rgb(112, 50, 0);
 }
 .marca{
     background-color: rgb(235, 106, 0);
